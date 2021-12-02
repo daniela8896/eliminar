@@ -1,0 +1,33 @@
+.banner{
+  background: url(../img/dandelion-g898d0bd29_1920.jpg);
+  background-size: 100%;
+  height: 450px;
+}
+.titulo{
+    padding: 80px;
+    text-shadow: 0 3px 5px #656565;
+    font-weight: bold;
+    font-size: 52px;
+}
+.espacio{
+    padding: 60px 0;
+}
+.fondo{
+    background-color: black;
+}
+.footer{
+    padding: 60px 0;
+    
+}
+.icomenu{
+    height: 30px;
+    width: 30px;
+}
+.carousel-control-prev-icon{
+    
+    background-color: rgb(199, 88, 233);
+}
+.carousel-control-next-icon{
+    
+    background-color: rgb(199, 88, 233);
+}
